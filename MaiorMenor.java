@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Programa que peça um valor e diga qual o maior e o menor deles 
+//Programa que peça 3 valores e diga qual o maior e o menor deles 
  class MaiorMenor{
    public static Scanner ler=new Scanner(System.in);
    public static void main(String args[]){ 
